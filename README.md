@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hassan-Roland, researcher at Agroscope.
 - 👀 I code a lot (more than 50% of my time). I do not commit everything here, though! 
-- 📫 How to reach me: hassan.nasser@icloud.com / roland.nasser@agroscope.admin.ch
+- 📫 How to reach me: hassan.nasser@icloud.com / hassan-roland.nasser@agroscope.admin.ch
 - I am the creator and maintainer of the [DigiRhythm Library](https://cran.r-project.org/web/packages/digiRhythm/index.html)
 
 <!---
